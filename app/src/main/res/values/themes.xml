@@ -1,0 +1,38 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Responsi1" parent="Theme.MaterialComponents.DayNight">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:windowBackground">#FFFFFF</item>
+        <item name="android:statusBarColor">@color/white</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="button">
+        <item name="android:backgroundTint">@color/darkblue</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="text">
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="card">
+        <item name="cardBackgroundColor">#E6FFFFFF</item>
+    </style>
+    <style name="nav">
+        <item name="android:background">@android:color/white</item>
+        <item name="itemIconTint">@color/darkblue</item>
+        <item name="itemTextColor">@color/darkblue</item>
+    </style>
+    <style name="header_nav">
+        <item name="android:background">@android:color/white</item>
+    </style>
+
+    <style name="Theme.Responsi1." parent="Theme.Responsi1" />
+</resources>

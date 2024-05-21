@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">One Piece Scrolls</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Profile</string>
+    <string name="hometext">"One Piece Scrolls" adalah panduan untuk penggemar Anime One Piece, menyajikan daftar bajak laut beserta kru mereka dalam cerita dengan deskripsi singkat dan informatif.
+       Dilengkapi dengan deskripsi singkat mengenai bajak laut yang terdapat di Anime One Piece, pengguna dapat menemukan informasi menarik mengenai setiap bajak laut dan kru mereka.</string>
+
+    <string-array name="kru_titles">
+        <item>Bajak Laut Shirohige</item>
+        <item>Bajak Laut Roger</item>
+        <item>Bajak Laut Rambut Merah</item>
+        <item>Bajak Laut Bigmom</item>
+        <item>Bajak Laut Binatang Buas</item>
+        <item>Bajak Laut Kurohige</item>
+        <item>Bajak Laut Topi Jerami</item>
+        <item>Bajak Laut Hati</item>
+        <item>Bajak Laut Kid</item>
+        <item>Bajak Laut Donquixote</item>
+    </string-array>
+
+    <string-array name="kru_descriptions">
+        <item>Bajak Laut Shirohige dulunya salah satu kru bajak laut terkuat di dunia, sebagai kapten mereka (Whitebeard) adalah satu-satunya bajak laut yang pernah terikat dengan Gol D. Roger dalam perkelahian. Kru Whitebeard tersegmentasi menjadi berbagai divisi.Setelah kematian Whitebeard dan Ace, serta tindakan Bajak Laut Blackbeard yang menaklukkan bekas wilayah Bajak laut Whitebeard dan kapten mereka merebut posisi Whitebeard di Yonko, keberadaan dan status awak yang tersisa saat ini tidak diketahui.</item>
+        <item>Bajak Laut Roger adalah kru bajak laut dari Raja Bajak Laut, Gol D. Roger, dan satu-satunya kru yang pernah mencapai Raftel, akhir dari Dunia Baru di Grand Line. Jolly Roger Bajak Laut Roger adalah tengkorak dengan kumis yang menyerupai kumis Gol D. Roger.</item>
+        <item>Bajak Laut Rambut Merah adalah kru bajak laut yang sangat terkenal dan kuat yang berkuasa di Dunia Baru, dikapteni oleh kepala mereka, Shanks Berambut Merah, salah satu dari Empat Kaisar dan mantan murid dari Bajak Laut Roger. Mantan Jolly Roger dari Bajak Laut Rambut Merah ini memiliki tengkorak yang tampak realistis dengan sepasang pedang bersilang di belakangnya. Itu memiliki dua garis merah dengan garis hitam yang menyilang secara diagonal melintasi rongga mata kiri tengkorak, mewakili bekas luka yang diterima kepala suku dari Blackbeard. Setelah Perang Puncak Marineford, Jolly Roger milik kru sedikit dimodifikasi untuk menggambarkan rahang tengkorak yang tertutup rapat.</item>
+        <item>Bajak Laut Big Mom adalah kelompok bajak laut kuat dan terkenal dipimpin oleh Yonko Charlotte Linlin, lebih dikenal dengan sebutan "Big Mom", dan mereka mengendalikan negara yang kuat, Totto Land, dengan kapten mereka sebagai ratu serta basis operasi mereka berada di Pulau Whole Cake, pulau utama negara mereka. Lambang Bajak Laut Big Mom adalah sebuah tengkorak dengan bibir lebar dan mengenakan topi bajak laut bersudut tiga berdasarkan penampilan kaptennya, dengan latar belakang berambut (yang menggambarkan rambut Linlin) dengan beberapa permen lingkaran yang menyilang di belakangnya (satu di kanan, tiga lainnya menancap di sebelah kiri bersama-sama) sebagai ganti dari tulang dalam logo bajak laut. Sebuah pohon terlihat mencuat dari ujung permen di bagian kanan bawah.</item>
+        <item>Bajak Laut Binatang Buas adalah kru bajak laut yang terkenal dan kuat yang dipimpin oleh Kaido dari Yonko. Mereka saat ini berada di Negeri Wano, dan karena tindakan mereka, mereka berfungsi sebagai kelompok antagonis utama dari arc Zou dan Negeri Wano dan merupakan salah satu kelompok antagonis sentral Saga Yonko. Jolly Roger adalah tengkorak di tengahdan sepasang tulang menyilang berpotongan (mirip dengan bendera Bajak Laut Blackbeard). Tengkorak memiliki tanduk yang mirip dengan Kaido, dan ada dua bentuk yang mengapit tengkorak.</item>
+        <item>Bajak Laut Kurohige adalah kru Bajak Laut laut yang sangat kuat dan kelompok antagonis utama, dipimpin oleh anggota Yonko Marshall D. Teach, juga dikenal sebagai "Kurohige", dan salah satu grup antagonis utama dalam seri. Bendera bajak laut Blackbeard adalah tiga tengkorak cemberut ; satu melihat ke kiri , satu melihat ke depan dan satu melihat ke kanan. Dibelakang mereka ada set tulang yang saling bersilangan , selain dua klasik.</item>
+        <item>Bajak Laut Topi Jerami, juga dikenal sebagai Bajak Laut Mugiwara, Kru Topi Jerami atau singkatnya Topi Jerami, adalah kelompok yang terkenal dan kuat Bajak Laut yang berasal dari East Blue. Kru Jolly Roger adalah penggambaran tengkorak tradisional dan tulang bersilang seperti kartun dengan tengkorak yang memakai topi jerami khas Luffy. Karena keterampilan menggambar mengerikan Luffy, Usopp adalah orang yang menggambar bendera. Selain berada di bendera mereka, jolly roger juga telah ditampilkan di layar Going Merry dan Thousand Sunny.</item>
+        <item>Bajak Laut Hati adalah bajak laut terkenal dan kru bajak laut pemula yang diperkenalkan di Kepulauan Sabaody ketika Bajak Laut Topi Jerami tiba di sana dua tahun yang lalu. Potensi mereka terlihat ketika Silvers Rayleigh mengeluarkan ledakan Haki dan semua kru masih mampu bertahan. Tidak seperti kebanyakan bajak laut lain dari North Blue, Bajak Laut Hati tidak menggunakan tengkorak dan tulang, tetapi simbol tersenyum. Lambang Bajak Laut Hati memiliki tonjolan dalam enam arah, dan pada kenyataannya cukup mirip dengan lambang Bajak Laut Donquixote, tanpa tanda silang di atasnya.</item>
+        <item>Bajak Laut Kid adalah awak bajak laut rookie yang terkenal dan terkenal yang diperkenalkan selama Arc Kepulauan Sabaody pada saat Bajak Laut Topi Jerami tiba di sana dua tahun lalu. Seperti Topi Jerami, kru ini memiliki dua hadiah di atas Berry100.000.000. Kedua anggota memiliki hadiah yang sedikit lebih tinggi daripada anggota masing-masing awak Topi Jerami sebelum jeda waktu. Kapten mereka adalah Eustass Kid. Bendera Kid Pirates mewakili tengkorak yang biasanya menyeringai yang memiliki gaya rambut Kid dan mengenakan kacamata berbentuk persegi yang kedua di dahinya. Di latar belakang ada pola tradisional lintas tulang plus apa yang tampaknya mewakili dua pisau membentuk salib juga. Terlebih lagi, di setiap sisi tengkorak ada pola seperti api.</item>
+        <item>Bajak Laut Donquixote adalah kru Bajak laut yang dipimpin oleh Donquixote Doflamingo. Mereka juga dikenal dengan sebutan Keluarga Donquixote. Jolly Roger kru adalah lambang tersenyum yang disilang. Simbol ini juga digunakan oleh beberapa dari afiliasi Doflamingo, seperti Rumah Pelelangan Manusia dan Bajak Laut Bellamy.</item>
+    </string-array>
+
+
+</resources>

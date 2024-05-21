@@ -1,0 +1,37 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Responsi1" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_200</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_200</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/darkblue</item>
+        <item name="android:windowBackground">@color/darkblue</item>
+
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="text">
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="card">
+        <item name="cardBackgroundColor">#E6012e6d</item>
+    </style>
+    <style name="nav">
+        <item name="android:background">@color/darkblue</item>
+        <item name="itemIconTint">@color/white</item>
+        <item name="itemTextColor">@color/white</item>
+    </style>
+    <style name="header_nav">
+        <item name="android:background">@color/darkblue</item>
+    </style>
+    <style name="button">
+        <item name="android:backgroundTint">@color/white</item>
+        <item name="android:textColor">@color/darkblue</item>
+    </style>
+    <style name="Theme.Responsi1." parent="Theme.Responsi1" />
+</resources>
